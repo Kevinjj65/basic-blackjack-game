@@ -1,0 +1,39 @@
+
+/* Style for the button */
+button {
+    background-color: #4CAF50;
+    color: rgb(224, 198, 28);
+    padding-top:5px;
+    padding-bottom:10px;
+    font-family:'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width :150px;
+    font-weight: bold;
+    border:none;
+    
+   
+}
+
+/* Add hover effect to the button */
+button:hover {
+    background-color: #45a049;
+}
+#msg-el{
+    color:black;
+    font-style: italic;
+
+}
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("https://imgs.search.brave.com/9vGtOKMDiHnhcGH82oGEY7qGP1NzAdzoEJEWTz9f4Ec/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzI1LzM4LzQx/LzM2MF9GXzMyNTM4/NDE5MV9zZzFENWxZ/V2ZSZWRHUXNCbTh4/SUhuc1NBVVVVVnhH/RS5qcGc");
+    background-size: cover;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    
+}
+h1{
+    color: coral;
+}
